@@ -13,3 +13,8 @@ spec:
      port:
      - port: 8080
        containerPort: 8080
+  resources:
+   request:
+   limits:
+
+
